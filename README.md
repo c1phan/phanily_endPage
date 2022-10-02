@@ -4,7 +4,7 @@ spaceapps competition:
 
 
 
-Start Page:
+End Page:
   - Programmer = Cody Kato
   - Art = Kathryn Phan
-  - Purpose: Allow players to start the game!
+  - Purpose: Allow players to restart the game!
